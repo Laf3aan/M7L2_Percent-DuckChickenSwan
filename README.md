@@ -1,1 +1,1 @@
-# M7L2_Percent-DuckChickenSwan
+this discord bot lets you do percentage and differenciate chicken duck and swan yea
